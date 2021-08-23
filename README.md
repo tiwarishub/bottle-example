@@ -1,4 +1,4 @@
-# Bottle Web Service Example 
+# Bottle Web Service Example  
 
 A simple Python web server using the Bottle framework.
 
